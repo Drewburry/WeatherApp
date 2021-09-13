@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 24.7642,
+        "lat": -28.7383
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 7.81,
+        "feels_like": 5.25,
+        "temp_min": 7.81,
+        "temp_max": 7.81,
+        "pressure": 1027,
+        "humidity": 23
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 200
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1630168559,
+    "sys": {
+        "type": 1,
+        "id": 1928,
+        "country": "ZA",
+        "sunrise": 1630125599,
+        "sunset": 1630166689
+    },
+    "timezone": 7200,
+    "id": 990930,
+    "name": "Kimberley",
+    "cod": 200
+}
