@@ -12,7 +12,7 @@ const App = () => {
   const [weather, setWeather] = useState([]);
   const [count, setCount] = useState('')
   const [city, setCity] = useState('')
-  const APIkey = "55f9189b0f843decde6d48485c98f41d";
+  const APIkey = "ENTER YOUR KEY HERE";
 
 useEffect(()=>{
   run()
